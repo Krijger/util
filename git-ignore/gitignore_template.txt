@@ -1,5 +1,23 @@
-# IDE files
+# IDE
 .idea/
+*.iml
+
+# Gradle
+.gradle/
+.gradletasknamecache
+
+# Build directory
+build/
+
+# Jekyll build directory
+_site
+
+# Temporary directories
+**/tmp/
+**/temp/
+
+# Node / NPM
+node_modules/
 
 ### THE ABOVE IGNORE STATEMENTS WERE GENERATED WITH https://github.com/Krijger/util/bin/gitignore ###
 
