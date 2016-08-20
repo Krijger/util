@@ -1,3 +1,3 @@
 # Util
 
-Utility scripts that are usefull across systems.
+Utility scripts that are useful across systems.
