@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+git config --global alias.c "commit -m"
+git config --global alias.st "status -s"
+git config --global alias.a "add -A"
+git config --global alias.f "fetch --prune"
+git config --global alias.tree "log --graph --decorate --pretty=oneline --abbrev-commit"
