@@ -7,7 +7,7 @@
 .gradletasknamecache
 
 # Build directory
-build/
+**/build/
 
 # Jekyll build directory
 _site
